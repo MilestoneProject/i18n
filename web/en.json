@@ -1,4 +1,6 @@
 {
+  "lang": "en",
+  "lang.name": "English",
   "unsupportedBrowser": "Browser not supported.",
   "unsupportedBrowser.details": "More Info",
   "preInit.debug.loadRuntime": "Loading runtime",
