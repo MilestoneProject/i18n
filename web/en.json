@@ -2,7 +2,7 @@
   "lang": "en",
   "lang.name": "English",
   "unsupportedBrowser": "Browser not supported.",
-  "unsupportedBrowser.details": "More Info",
+  "unsupportedBrowser.details": "Learn more",
   "preInit.debug.loadRuntime": "Loading runtime",
   "preInit.debug.compileWasm": "Initializing entrypoint",
   "preInit.debug.runRenderer": "Checking engine",
