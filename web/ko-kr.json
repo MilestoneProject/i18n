@@ -1,0 +1,9 @@
+{
+  "unsupportedBrowser": "지원되지 않는 브라우저입니다.",
+  "unsupportedBrowser.details": "자세히 알아보기",
+  "preInit.debug.loadRuntime": "런타임을 불러오는 중",
+  "preInit.debug.compileWasm": "진입점 초기화 중",
+  "preInit.debug.runRenderer": "엔진 검사 중",
+  "preInit.debug.instantiate": "리소스를 불러오는 중",
+  "preInit.debug.invokeAsync": "milestone을 시작하는 중"
+}

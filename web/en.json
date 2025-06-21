@@ -1,0 +1,9 @@
+{
+  "unsupportedBrowser": "Browser not supported.",
+  "unsupportedBrowser.details": "More Info",
+  "preInit.debug.loadRuntime": "Loading runtime",
+  "preInit.debug.compileWasm": "Initializing entrypoint",
+  "preInit.debug.runRenderer": "Checking engine",
+  "preInit.debug.instantiate": "Loading resources",
+  "preInit.debug.invokeAsync": "Starting milestone"
+}
